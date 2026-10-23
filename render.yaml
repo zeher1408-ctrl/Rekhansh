@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Rekhansh
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
